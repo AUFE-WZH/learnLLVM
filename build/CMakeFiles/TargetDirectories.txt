@@ -1,0 +1,6 @@
+/home/wzh/code/learnLLVM/build/CMakeFiles/intrinsics_gen.dir
+/home/wzh/code/learnLLVM/build/CMakeFiles/omp_gen.dir
+/home/wzh/code/learnLLVM/build/CMakeFiles/acc_gen.dir
+/home/wzh/code/learnLLVM/build/CMakeFiles/learnLLVM.dir
+/home/wzh/code/learnLLVM/build/CMakeFiles/edit_cache.dir
+/home/wzh/code/learnLLVM/build/CMakeFiles/rebuild_cache.dir
